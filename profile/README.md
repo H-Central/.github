@@ -4,7 +4,7 @@ Nous sommes une petite organisation Github ayant pour but de vous proposer des p
 
 ## Notre Serveur Discord
 
-Vous pouvez nous rejoindre sur discord pour être notifié des nouveautés et des recrutements
+Vous pouvez nous rejoindre sur discord pour être notifier des nouveautés et des recrutements
 - https://discord.gg/Hgcfqy6Tzk
 
 

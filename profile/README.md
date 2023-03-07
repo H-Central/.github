@@ -1,11 +1,11 @@
-## À Propos
-Nous sommes une petite organisation Github ayant pour but de vous proposer des projets Open Source autour de l'informatique
+## ABOUT
+H-central is a small organization, we aim to share Open Source projects with you
 - https://organisation-h-central.vegg.site
 - Instagram : https://instagram.com/h.central.fr
 
 ## Notre Serveur Discord
 
-Vous pouvez nous rejoindre sur discord pour être notifier des nouveautés et des recrutements
+You can join our discord server ( french server ) 
 - https://discord.gg/Hgcfqy6Tzk
 
 

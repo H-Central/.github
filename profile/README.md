@@ -1,6 +1,6 @@
 ## À Propos
 Nous sommes une petite organisation Github ayant pour but de vous proposer des projets Open Source autour de l'informatique
-- organisation-h-central.vegg.site
+- https://organisation-h-central.vegg.site
 
 ## Notre Serveur Discord
 
